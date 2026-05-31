@@ -54,18 +54,6 @@ pytest -q
 Out of the box, `tests/test_smoke.py` passes and `tests/test_cases.py` fails —
 the latter is your target. Go beyond those four cases with your own tests.
 
-## What to submit
-
-Your implementation, your tests, and a short README section describing:
-- your approach and the alternatives you considered,
-- **your interpretation of the payment shapes** (even / staircase / balloon — we
-  left these loosely defined on purpose),
-- assumptions you made, and known edge cases / limitations.
-
-Budget ~5–6 hours. Prefer a correct, well-tested core over breadth. When in
-doubt, write down your assumption and keep going.
-
-
 ---
 
 ## Implementation notes
